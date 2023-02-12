@@ -25,3 +25,6 @@ git checkout -b nome-da-branch - Para criar uma nova branch e acessá-la e escol
 
 * Você pode criar quantas branches (ramificações) forem necessárias, bem como criar novas branches a partir de branches já existentes. Para verificar em qual branch você está, utilize o comando git branch ou, se preferir, verifique o lado inferior esquerdo do seu VS Code, local em que há a informação da branch em que você está atualmente. * 
 
+git checkout main - Acessar a branch main.
+git merge nome-da-branch - Estando na branch em que deseja realizar o merge, em que nesse caso o "nome-da-branch" é o nome da branch que foi criada para realizar as alterações.
+
